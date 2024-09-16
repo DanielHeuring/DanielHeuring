@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DanielHeuring
-- 👀 I’m interested in Learning New Programming Knowledge
-- 🌱 I’m currently learning TBD
+- 🌱 I’m currently attending UMD for Computer Science
 - 📫 How to reach me daniel.heuring@gmail.com
-- 😄 Pronouns: he/him
 
 <!---
 DanielHeuring/DanielHeuring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
